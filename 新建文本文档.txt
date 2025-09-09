@@ -1,0 +1,2 @@
+npm run dev:h5 
+yarn run local
